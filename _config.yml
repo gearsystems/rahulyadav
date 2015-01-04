@@ -1,0 +1,27 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Rahul Yadav
+tagline:             'Personalized Diary'
+description:         
+url:                 http://gearsystems.github.io/rahulyadav
+paginate:            5
+
+# About/contact
+author:
+  name:              Rahul Yadav
+  url:               https://twitter.com/ryprahul
+  email:             ryp.rahulyadav@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:           https://github.com/gearsystems/rahulyadav
